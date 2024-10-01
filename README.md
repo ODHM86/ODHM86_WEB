@@ -32,3 +32,6 @@ Select the created bucket and upload the web files to the bucket:
 Select each file of the static web page and edit permissions to make the files readable by all 
 ![2024-10-01 (17)](https://github.com/user-attachments/assets/6e843c87-9e1d-499f-9d22-298d704c945c)
 ![2024-10-01 (18)](https://github.com/user-attachments/assets/b4b38e4c-9203-4ba1-8126-8adef984717f)
+
+Now the website can be visited through:
+https://odhm86.s3.us-east-2.amazonaws.com/ODHM.html
